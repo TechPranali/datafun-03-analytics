@@ -1,13 +1,13 @@
 #Project 3 
 
-#Create Virtual Environment
+##Create Virtual Environment
 
 py -m venv .venv
 .venv\Scripts\Activate
 py -m pip install -r requirements.txt
 
 
-#Git add and commit 
+##Git add and commit 
 
 
 git add .
